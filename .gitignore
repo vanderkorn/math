@@ -5,3 +5,6 @@
 /TestVanderkorn/obj
 /TestProject1/bin
 /TestProject1/obj
+/TestResults
+*.suo
+*.user
