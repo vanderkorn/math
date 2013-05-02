@@ -1,0 +1,19 @@
+<p>It is the program for Mathematical decisions (Matrix computations)<br />
+Only for home use!</p>
+
+<p> Matrix: double and generic type. </p>
+<p> Large number of matrix calculations </p>
+<p> Example: </p>
+
+<i>//Rank, determinant of matrix</i><br />
+ var matrix = new Matrix
+            (
+                new double[,]
+                {
+                    {1,2,0},
+                    {4,6,0},
+                    {7,3,0}
+                }
+            );
+ulong rank = matrix.Rank();// Rank of matrix
+double det = matrix.Det();//Determinant of matrix

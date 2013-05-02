@@ -1,0 +1,7 @@
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Debug\TestVanderkorn.exe
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Debug\TestVanderkorn.pdb
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Debug\Vanderkorn.dll
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Debug\Vanderkorn.pdb
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Debug\TestVanderkorn.exe
+C:\Users\vanderkorn\documents\visual studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Debug\TestVanderkorn.pdb

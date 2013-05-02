@@ -1,0 +1,8 @@
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\TestProject1.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\TestProject1.pdb
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\Vanderkorn.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\Vanderkorn.pdb
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\Vanderkorn_Accessor.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Release\Vanderkorn_Accessor.pdb
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\obj\Release\TestProject1.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\obj\Release\TestProject1.pdb

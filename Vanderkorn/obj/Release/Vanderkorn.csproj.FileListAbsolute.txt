@@ -1,0 +1,4 @@
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\Vanderkorn\bin\Release\Vanderkorn.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\Vanderkorn\bin\Release\Vanderkorn.pdb
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\Vanderkorn\obj\Release\Vanderkorn.dll
+C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\Vanderkorn\obj\Release\Vanderkorn.pdb
