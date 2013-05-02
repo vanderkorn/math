@@ -1,4 +1,0 @@
-math
-====
-
-Vanderkorn Mathematical Decisions
