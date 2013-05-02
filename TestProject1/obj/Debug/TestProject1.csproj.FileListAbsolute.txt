@@ -1,9 +1,0 @@
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\TestProject1.dll
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\TestProject1.pdb
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\Vanderkorn.dll
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\Vanderkorn.pdb
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\Vanderkorn_Accessor.dll
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\bin\Debug\Vanderkorn_Accessor.pdb
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\obj\Debug\TestProject1.dll
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestProject1\obj\Debug\TestProject1.pdb

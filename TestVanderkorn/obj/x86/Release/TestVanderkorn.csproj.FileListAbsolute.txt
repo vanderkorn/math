@@ -1,7 +1,0 @@
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Release\TestVanderkorn.exe
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Release\TestVanderkorn.pdb
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Release\Vanderkorn.dll
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\bin\Release\Vanderkorn.pdb
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Release\TestVanderkorn.csprojResolveAssemblyReference.cache
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Release\TestVanderkorn.exe
-C:\Users\vanderkorn\Documents\Visual Studio 2010\Projects\Vanderkorn\TestVanderkorn\obj\x86\Release\TestVanderkorn.pdb
